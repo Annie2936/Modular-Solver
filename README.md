@@ -1,4 +1,4 @@
-# Modular-Solver
+# Modular Solver
 ## Introduction 
 Modular solver is a program which is designed to solver modular equations which are encountred in b.tech (in india)
 ## Features 
